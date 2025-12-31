@@ -30,7 +30,7 @@ This project developed a linkage-based lifting mechanism to improve golf accessi
 
 ### Motion Demo
 
-![assembly-movie.avi](media/videos/assembly-movie.mp4)
+Motion demo: [assembly-movie.mp4](media/videos/assembly-movie.mp4)
 
 ## Mechanism design
 
