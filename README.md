@@ -18,19 +18,19 @@ This project developed a linkage-based lifting mechanism to improve golf accessi
 
 ### Assembly + bill of materials
 
-![Assembly view]()
+![Assembly view](media/figures/bill-of-materials.jpg)
 
 ### CAD render
 
-![Rendered assembly]()
+![Rendered assembly](media/figures/assembly-render.jpg)
 
 ### Physical prototype
 
-![Laser-cut prototype]()
+![Laser-cut prototype](media/figures/physical-prototype.jpg)
 
 ### Motion Demo
 
-![assembly-movie.avi]()
+![assembly-movie.avi](media/videos/assembly-movie.mp4)
 
 ## Mechanism design
 
@@ -67,6 +67,7 @@ The prototype demonstrated the intended motion and helped identify practical con
   - figures/
   - videos/
     - assembly-movie.avi
+    - assembly-movie.mp4
 
 ## Tools used
 
