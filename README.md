@@ -76,6 +76,6 @@ The prototype demonstrated the intended motion and helped identify practical con
 
 ## Collaborators
 
-- [Matthew Lardieri](https://www.linkedin.com/in/matthew-lardieri-5b3334316/)
+- [Akinfoluhan Akinleye](https://www.linkedin.com/in/akinfoluhan-akinleye/) 
 - [Mehdi Mrini](https://www.linkedin.com/in/mehdi-mrini-28779627a/)
 - [Winston Nfor Kanjo Ndi](https://www.linkedin.com/in/winston-nfor-kanjo-ndi-825270225/)
