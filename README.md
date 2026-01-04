@@ -4,7 +4,7 @@ Designed and prototyped a compact wheelchair add-on that assists a paraplegic us
 
 ## Overview
 
-This project developed a linkage-based lifting mechanism to improve golf accessibility for a paraplegic wheelchair user. The goal was to create an add-on system that attaches to a standard wheelchair, lifts the user to a stable elevated posture, and supports a safe golf swing while remaining compact and practical to fabricate.
+This project developed a linkage-based lifting mechanism to improve golf accessibility for a paraplegic wheelchair user. The goal was to create a system that attaches to a standard wheelchair and helps lift the user to an elevated posture, and supports a safe golf swing.
 
 ## Design goals
 
